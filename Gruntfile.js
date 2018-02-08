@@ -1,5 +1,6 @@
 module.exports = function(grunt) {
-
+  
+  grunt.loadNpmTasks('grunt-coveralls');
   // Update this variable if you don't want or can't serve on localhost
   var hostname = 'localhost';
 
