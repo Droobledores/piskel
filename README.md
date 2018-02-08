@@ -1,7 +1,8 @@
 Piskel
 ======
+[![Build Status](https://travis-ci.org/Droobledores/piskel.svg?branch=master)](https://travis-ci.org/Droobledores/piskel)
 [![Coverage Status](https://coveralls.io/repos/github/Droobledores/piskel/badge.svg?branch=master)](https://coveralls.io/github/Droobledores/piskel?branch=master)
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Maintainability](https://api.codeclimate.com/v1/badges/40ba4c1923918f30bff9/maintainability)](https://codeclimate.com/github/Droobledores/piskel/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/40ba4c1923918f30bff9/test_coverage)](https://codeclimate.com/github/Droobledores/piskel/test_coverage)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Maintainability](https://api.codeclimate.com/v1/badges/40ba4c1923918f30bff9/maintainability)](https://codeclimate.com/github/Droobledores/piskel/maintainability)
 
 Piskel is an easy-to-use sprite editor. It can be used to create game sprites, animations, pixel-art...
 It is the editor used in **[piskelapp.com](http://piskelapp.com)**.
